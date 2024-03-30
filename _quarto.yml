@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 book:
-  title: "PROJECT TITLE"
+  title: "Digital Transformation"
   subtitle: "working"
   author: "Chungil Chae"
   date: today
